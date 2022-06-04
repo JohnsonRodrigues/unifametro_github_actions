@@ -29,4 +29,4 @@ jobs:
           
       - name: Run atividade
         run: 
-          docker run /whalesay cowsay johnsonrodrigues
+          docker run docker/whalesay cowsay johnsonrodrigues
